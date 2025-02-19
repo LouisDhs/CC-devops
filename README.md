@@ -1,4 +1,5 @@
-![CI Status](https://github.com/LouisDhs/CC-devops/.github/workflows/test.yml/badge.svg)
+![CI](https://github.com/LouisDhs/CC-devops/actions/workflows/ci.yml/badge.svg)
+
 
 Projet de DESHAYES Louis 3INFO
 https://cc-devops-louis-deshayes.netlify.app/

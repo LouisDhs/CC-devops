@@ -1,4 +1,4 @@
-![CI](https://github.com/LouisDhs/CC-devops/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/LouisDhs/CC-devops/actions/workflows/test.yml/badge.svg)](https://github.com/LouisDhs/CC-devops/actions/workflows/test.yml)
 
 
 Projet de DESHAYES Louis 3INFO

@@ -13,4 +13,4 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 
 ## Test Results
 
-![CI Status](https://github.com/LouisDhs/CC-devops/CC-devops/.github/workflows/test.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c221bb0-2791-47c7-94aa-8909216b20d1/deploy-status)](https://app.netlify.com/sites/cc-devops-louis-deshayes/deploys)

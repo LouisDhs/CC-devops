@@ -1,6 +1,3 @@
-![CI Status](https://github.com/LouisDhs/CC-devops/CC-devops/.github/workflows/test.yml/badge.svg)
-
-
 # DevOps Project
 
 Ce projet est destiné à valider les connaissances en DevOps des élèves de 3ème année d'informatique.
@@ -13,3 +10,5 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 4. Implémentez une github action pour déployer automatiquement le site sur un hebergement gratuit (Netlify)
 
 ## Test Results
+
+![CI Status](https://github.com/LouisDhs/CC-devops/CC-devops/.github/workflows/test.yml)
